@@ -12,4 +12,4 @@ Letely, I have been mastering Data Vsiualization.
 - 📫 How to reach me: Please reach me via mail:bimalkprabha24@gmail.com
 - ⚡ Fun fact: Master Table-Tennis Player
 
-[![Bimal's github stats](https://github-readme-stats.vercel.app/api?username=bimalkprabha)](https://github.com/bimalkprabha/github-readme-stats)
+[![Bimal's github stats](https://github-readme-stats.vercel.app/api?username=bimalkprabha&show_icons=true&theme=radical)](https://github.com/bimalkprabha/github-readme-stats)
