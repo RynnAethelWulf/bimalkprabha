@@ -4,7 +4,7 @@ Welcome to my Github Profile . I am avid learner in new technlogies and love hel
 Letely, I have been mastering Data Vsiualization.
 </br>
 - 🔭 I’m currently working on a Financial Portfolio Project on a Flask framewor,API's and ETL pipeline.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Big Data
 - 👯 I’m looking to collaborate on Kaggle
 - 🤔 I’m looking for help with  Advanced Machine Learning
 - 💬 Ask me about Universe (Big fan of Neil deGrasse Tyson :hearts:) 
